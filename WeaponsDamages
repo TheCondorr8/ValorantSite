@@ -1,0 +1,291 @@
+{
+    "classic" : {
+        "short" : {
+            "head" : 78,
+            "body" : 26,
+            "legs" : 22
+        },
+        "mid" : {
+            "head" : 66,
+            "body" : 22,
+            "legs" : 18
+        },
+        "long" : {
+            "head" : 66,
+            "body" : 22,
+            "legs" : 18
+        }
+    },
+    "shorty" : {
+        "short" : {
+            "head" : 36,
+            "body" : 12,
+            "legs" : 10
+        },
+        "mid" : {
+            "head" : 24,
+            "body" : 8,
+            "legs" : 6
+        },
+        "long" : {
+            "head" : 9,
+            "body" : 3,
+            "legs" : 2
+        }
+    },
+    "frenzy" : {
+        "short" : {
+            "head" : 78,
+            "body" : 26,
+            "legs" : 22
+        },
+        "mid" : {
+            "head" : 63,
+            "body" : 21,
+            "legs" : 17
+        },
+        "long" : {
+            "head" : 63,
+            "body" : 21,
+            "legs" : 17
+        }
+    },
+    "ghost" : {
+        "short" : {
+            "head" : 105,
+            "body" : 33,
+            "legs" : 26
+        },
+        "mid" : {
+            "head" : 88,
+            "body" : 25,
+            "legs" : 21
+        },
+        "long" : {
+            "head" : 88,
+            "body" : 25,
+            "legs" : 21
+        }
+    },
+    "sheriff" : {
+        "short" : {
+            "head" : 160,
+            "body" : 55,
+            "legs" : 47
+        },
+        "mid" : {
+            "head" : 145,
+            "body" : 50,
+            "legs" : 43
+        },
+        "long" : {
+            "head" : 145,
+            "body" : 50,
+            "legs" : 43
+        }
+    },
+    "stinger" : {
+        "short" : {
+            "head" : 67,
+            "body" : 27,
+            "legs" : 23
+        },
+        "mid" : {
+            "head" : 62,
+            "body" : 25,
+            "legs" : 21
+        },
+        "long" : {
+            "head" : 62,
+            "body" : 25,
+            "legs" : 21
+        }
+    },
+    "spectre" : {
+        "short" : {
+            "head" : 78,
+            "body" : 26,
+            "legs" : 22
+        },
+        "mid" : {
+            "head" : 66,
+            "body" : 22,
+            "legs" : 18
+            },
+        "long" : {
+            "head" : 66,
+            "body" : 22,
+            "legs" : 18
+        }
+    },
+    "bucky" : {
+        "short" : {
+            "head" : 44,
+            "body" : 22,
+            "legs" : 19
+            },
+        "mid" : {
+            "head" : 34,
+            "body" : 17,
+            "legs" : 14
+        },
+        "long" : {
+            "head" : 18,
+            "body" : 9,
+            "legs" : 8
+        }
+    },
+    "judge" : {
+        "short" : {
+            "head" : 34,
+            "body" : 17,
+            "legs" : 14
+            },
+        "mid" : {
+            "head" : 26,
+            "body" : 13, 
+            "legs" : 11
+            },
+        "long" : {
+            "head" : 20,
+            "body" : 10,
+            "legs" : 9
+        }
+    },
+    "bulldog" : {
+        "short" : {
+            "head" : 116,
+            "body" : 35,
+            "legs" : 30
+        },
+        "mid" : {
+            "head" : 116,
+            "body" : 35,
+            "legs" : 30
+        },
+        "long" : {
+            "head" : 116,
+            "body" : 35,
+            "legs" : 30
+        }
+    },
+    "guardian" : {
+        "short" : {
+            "head" : 195,
+            "body" : 65,
+            "legs" : 49
+        },
+        "mid" : {
+            "head" : 195,
+            "body" : 65,
+            "legs" : 49
+        },
+        "long" : {
+            "head" : 195,
+            "body" : 65,
+            "legs" : 49
+        }  
+    },
+    "phantom" : {
+        "short" : {
+            "head" : 156,
+            "body" : 39, 
+            "legs" : 33
+        },
+        "mid" : {
+            "head" : 140,
+            "body" : 35,
+            "legs" : 30
+        },
+        "long" : {
+            "head" : 124,
+            "body" : 31,
+            "legs" : 26
+        }
+    },
+    "vandal" : {
+        "short" : {
+            "head" : 156,
+            "body" : 39,
+            "legs" : 33
+        },
+        "mid" : {
+            "head" : 156,
+            "body" : 39,
+            "legs" : 33
+        },
+        "long" : {
+            "head" : 156,
+            "body" : 39,
+            "legs" : 33
+        }
+    },
+    "marshall" : {
+        "short" : {
+            "head" : 202,
+            "body" : 101,
+            "legs" : 85
+        },
+        "mid" : {
+            "head" : 202,
+            "body" : 101,
+            "legs" : 85
+        },
+        "long" : {
+            "head" : 202,
+            "body" : 101,
+            "legs" : 85
+        }
+    },
+    "operator" : {
+        "short" : {
+            "head" : 255,
+            "body" : 150,
+            "legs" : 127
+        },
+        "mid" : {
+            "head" : 255,
+            "body" : 150,
+            "legs" : 127
+        },
+        "long" : {
+            "head" : 255,
+            "body" : 150,
+            "legs" : 127
+        }
+    },
+    "ares" : {
+        "short" : {
+            "head" : 72,
+            "body" : 30, 
+            "legs" : 25
+        },
+        "mid" : {
+            "head" : 67,
+            "body" : 28,
+            "legs" : 23
+        },
+        "long" : {
+            "head" : 67,
+            "body" : 28,
+            "legs" : 23
+        }
+    },
+    "odin" : {
+        "short" : {
+            "head" : 95, 
+            "body" : 38,
+            "legs" : 32
+        },
+        "mid" : {
+            "head" : 77,
+            "body" : 31,
+            "legs" : 26
+        },
+        "long" : {
+            "head" : 77,
+            "body" : 31,
+            "legs" : 26
+        }
+    }
+}
