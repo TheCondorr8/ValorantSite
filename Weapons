@@ -1,22 +1,20 @@
 {
     "classic" : {
         "damage" : {
-            "distance" : {
-                "short" : {
-                    "head" : 78,
-                    "body" : 26,
-                    "legs" : 22
-                },
-                "mid" : {
-                    "head" : 66,
-                    "body" : 22,
-                    "legs" : 18
-                },
-                "long" : {
-                    "head" : 66,
-                    "body" : 22,
-                    "legs" : 18
-                }
+            "short" : {
+                "head" : 78,
+                "body" : 26,
+                "legs" : 22
+            },
+            "mid" : {
+                "head" : 66,
+                "body" : 22,
+                "legs" : 18
+            },
+            "long" : {
+                "head" : 66,
+                "body" : 22,
+                "legs" : 18
             }
         },
         "price" : 0,
@@ -25,22 +23,20 @@
     },
     "shorty" : {
         "damage" : {
-            "distance" : {
-                "short" : {
-                    "head" : 36,
-                    "body" : 12,
-                    "legs" : 10
-                },
-                "mid" : {
-                    "head" : 24,
-                    "body" : 8,
-                    "legs" : 6
-                },
-                "long" : {
-                    "head" : 9,
-                    "body" : 3,
-                    "legs" : 2
-                }
+            "short" : {
+                "head" : 36,
+                "body" : 12,
+                "legs" : 10
+            },
+            "mid" : {
+                "head" : 24,
+                "body" : 8,
+                "legs" : 6
+            },
+            "long" : {
+                "head" : 9,
+                "body" : 3,
+                "legs" : 2
             }
         },
         "price" : 200,
@@ -49,22 +45,20 @@
     },
     "frenzy" : {
         "damage" : {
-            "distance" : {
-                "short" : {
-                    "head" : 78,
-                    "body" : 26,
-                    "legs" : 22
-                },
-                "mid" : {
-                    "head" : 63,
-                    "body" : 21,
-                    "legs" : 17
-                },
-                "long" : {
-                    "head" : 63,
-                    "body" : 21,
-                    "legs" : 17
-                }
+            "short" : {
+                "head" : 78,
+                "body" : 26,
+                "legs" : 22
+            },
+            "mid" : {
+                "head" : 63,
+                "body" : 21,
+                "legs" : 17
+            },
+            "long" : {
+                "head" : 63,
+                "body" : 21,
+                "legs" : 17
             }
         },
         "price" : 400,
@@ -73,22 +67,20 @@
     },
     "ghost" : {
         "damage" : {
-            "distance" : {
-                "short" : {
-                    "head" : 105,
-                    "body" : 33,
-                    "legs" : 26
-                },
-                "mid" : {
-                    "head" : 88,
-                    "body" : 25,
-                    "legs" : 21
-                },
-                "long" : {
-                    "head" : 88,
-                    "body" : 25,
-                    "legs" : 21
-                }
+            "short" : {
+                "head" : 105,
+                "body" : 33,
+                "legs" : 26
+            },
+            "mid" : {
+                "head" : 88,
+                "body" : 25,
+                "legs" : 21
+            },
+            "long" : {
+                "head" : 88,
+                "body" : 25,
+                "legs" : 21
             }
         },
         "price" : 500,
@@ -97,22 +89,20 @@
     },
     "sheriff" : {
         "damage" : {
-            "distance" : {
-                "short" : {
-                    "head" : 160,
-                    "body" : 55,
-                    "legs" : 47
-                },
-                "mid" : {
-                    "head" : 145,
-                    "body" : 50,
-                    "legs" : 43
-                },
-                "long" : {
-                    "head" : 145,
-                    "body" : 50,
-                    "legs" : 43
-                }
+            "short" : {
+                "head" : 160,
+                "body" : 55,
+                "legs" : 47
+            },
+            "mid" : {
+                "head" : 145,
+                "body" : 50,
+                "legs" : 43
+            },
+            "long" : {
+                "head" : 145,
+                "body" : 50,
+                "legs" : 43
             }
         },
         "price" : 800,
@@ -121,22 +111,20 @@
     },
     "stinger" : {
         "damage" : {
-            "distance" : {
-                "short" : {
-                    "head" : 67,
-                    "body" : 27,
-                    "legs" : 23
-                },
-                "mid" : {
-                    "head" : 62,
-                    "body" : 25,
-                    "legs" : 21
-                },
-                "long" : {
-                    "head" : 62,
-                    "body" : 25,
-                    "legs" : 21
-                }
+            "short" : {
+                "head" : 67,
+                "body" : 27,
+                "legs" : 23
+            },
+            "mid" : {
+                "head" : 62,
+                "body" : 25,
+                "legs" : 21
+            },
+            "long" : {
+                "head" : 62,
+                "body" : 25,
+                "legs" : 21
             }
         },
         "price" : 1000,
@@ -145,22 +133,20 @@
     },
     "spectre" : {
         "damage" : {
-            "distance" : {
-                "short" : {
-                    "head" : 78,
-                    "body" : 26,
-                    "legs" : 22
+            "short" : {
+                "head" : 78,
+                "body" : 26,
+                "legs" : 22
                 },
-                "mid" : {
-                    "head" : 66,
-                    "body" : 22,
-                    "legs" : 18
+            "mid" : {
+                "head" : 66,
+                "body" : 22,
+                "legs" : 18
                 },
-                "long" : {
-                    "head" : 66,
-                    "body" : 22,
-                    "legs" : 18
-                }
+            "long" : {
+                "head" : 66,
+                "body" : 22,
+                "legs" : 18
             }
         },
         "price" : 1700,
@@ -169,22 +155,20 @@
     },
     "bucky" : {
         "damage" : {
-            "distance" : {
-                "short" : {
-                    "head" : 44,
-                    "body" : 22,
-                    "legs" : 19
+            "short" : {
+                "head" : 44,
+                "body" : 22,
+                "legs" : 19
                 },
-                "mid" : {
-                    "head" : 34,
-                    "body" : 17,
-                    "legs" : 14
-                },
-                "long" : {
-                    "head" : 18,
-                    "body" : 9,
-                    "legs" : 8
-                }
+            "mid" : {
+                "head" : 34,
+                "body" : 17,
+                "legs" : 14
+            },
+            "long" : {
+                "head" : 18,
+                "body" : 9,
+                "legs" : 8
             }
         },
         "price" : 900,
@@ -193,22 +177,20 @@
     },
     "judge" : {
         "damage" : {
-            "distance" : {
-                "short" : {
-                    "head" : 34,
-                    "body" : 17,
-                    "legs" : 14
+            "short" : {
+                "head" : 34,
+                "body" : 17,
+                "legs" : 14
                 },
-                "mid" : {
-                    "head" : 26,
-                    "body" : 13, 
-                    "legs" : 11
+            "mid" : {
+                "head" : 26,
+                "body" : 13, 
+                "legs" : 11
                 },
-                "long" : {
-                    "head" : 20,
-                    "body" : 10,
-                    "legs" : 9
-                }
+            "long" : {
+                "head" : 20,
+                "body" : 10,
+                "legs" : 9
             }
         },
         "price" : 1500,
@@ -217,22 +199,20 @@
     },
     "bulldog" : {
         "damage" : {
-            "distance" : {
-                "short" : {
-                    "head" : 116,
-                    "body" : 35,
-                    "legs" : 30
-                },
-                "mid" : {
-                    "head" : 116,
-                    "body" : 35,
-                    "legs" : 30
-                },
-                "long" : {
-                    "head" : 116,
-                    "body" : 35,
-                    "legs" : 30
-                }
+            "short" : {
+                "head" : 116,
+                "body" : 35,
+                "legs" : 30
+            },
+            "mid" : {
+                "head" : 116,
+                "body" : 35,
+                "legs" : 30
+            },
+            "long" : {
+                "head" : 116,
+                "body" : 35,
+                "legs" : 30
             }
         },
         "price" : 2100,
@@ -241,22 +221,20 @@
     },
     "guardian" : {
         "damage" : {
-            "distance" : {
-                "short" : {
-                    "head" : 195,
-                    "body" : 65,
-                    "legs" : 49
-                },
-                "mid" : {
-                    "head" : 195,
-                    "body" : 65,
-                    "legs" : 49
-                },
-                "long" : {
-                    "head" : 195,
-                    "body" : 65,
-                    "legs" : 49
-                }
+            "short" : {
+                "head" : 195,
+                "body" : 65,
+                "legs" : 49
+            },
+            "mid" : {
+                "head" : 195,
+                "body" : 65,
+                "legs" : 49
+            },
+            "long" : {
+                "head" : 195,
+                "body" : 65,
+                "legs" : 49
             }
         },
         "price" : 2700,
@@ -265,22 +243,20 @@
     },
     "phantom" : {
         "damage" : {
-            "distance" : {
-                "short" : {
-                    "head" : 156,
-                    "body" : 39, 
-                    "legs" : 33
-                },
-                "mid" : {
-                    "head" : 140,
-                    "body" : 35,
-                    "legs" : 30
-                },
-                "long" : {
-                    "head" : 124,
-                    "body" : 31,
-                    "legs" : 26
-                }
+            "short" : {
+                "head" : 156,
+                "body" : 39, 
+                "legs" : 33
+            },
+            "mid" : {
+                "head" : 140,
+                "body" : 35,
+                "legs" : 30
+            },
+            "long" : {
+                "head" : 124,
+                "body" : 31,
+                "legs" : 26
             }
         },
         "price" : 2900,
@@ -289,22 +265,20 @@
     },
     "vandal" : {
         "damage" : {
-            "distance" : {
-                "short" : {
-                    "head" : 156,
-                    "body" : 39,
-                    "legs" : 33
-                },
-                "mid" : {
-                    "head" : 156,
-                    "body" : 39,
-                    "legs" : 33
-                },
-                "long" : {
-                    "head" : 156,
-                    "body" : 39,
-                    "legs" : 33
-                }
+            "short" : {
+                "head" : 156,
+                "body" : 39,
+                "legs" : 33
+            },
+            "mid" : {
+                "head" : 156,
+                "body" : 39,
+                "legs" : 33
+            },
+            "long" : {
+                "head" : 156,
+                "body" : 39,
+                "legs" : 33
             }
         },
         "price" : 2900,
@@ -313,22 +287,20 @@
     },
     "marshall" : {
         "damage" : {
-            "distance" : {
-                "short" : {
-                    "head" : 202,
-                    "body" : 101,
-                    "legs" : 85
-                },
-                "mid" : {
-                    "head" : 202,
-                    "body" : 101,
-                    "legs" : 85
-                },
-                "long" : {
-                    "head" : 202,
-                    "body" : 101,
-                    "legs" : 85
-                }
+            "short" : {
+                "head" : 202,
+                "body" : 101,
+                "legs" : 85
+            },
+            "mid" : {
+                "head" : 202,
+                "body" : 101,
+                "legs" : 85
+            },
+            "long" : {
+                "head" : 202,
+                "body" : 101,
+                "legs" : 85
             }
         },
         "price" : 1100,
@@ -337,22 +309,20 @@
     },
     "operator" : {
         "damage" : {
-            "distance" : {
-                "short" : {
-                    "head" : 255,
-                    "body" : 150,
-                    "legs" : 127
+            "short" : {
+                "head" : 255,
+                "body" : 150,
+                "legs" : 127
                 },
-                "mid" : {
-                    "head" : 255,
-                    "body" : 150,
-                    "legs" : 127
-                },
-                "long" : {
-                    "head" : 255,
-                    "body" : 150,
-                    "legs" : 127
-                }
+            "mid" : {
+                "head" : 255,
+                "body" : 150,
+                "legs" : 127
+            },
+            "long" : {
+                "head" : 255,
+                "body" : 150,
+                "legs" : 127
             }
         },
         "price" : 4500,
@@ -361,22 +331,20 @@
     },
     "ares" : {
         "damage" : {
-            "distance" : {
-                "short" : {
-                    "head" : 72,
-                    "body" : 30, 
-                    "legs" : 25
-                },
-                "mid" : {
-                    "head" : 67,
-                    "body" : 28,
-                    "legs" : 23
-                },
-                "long" : {
-                    "head" : 67,
-                    "body" : 28,
-                    "legs" : 23
-                }
+            "short" : {
+                "head" : 72,
+                "body" : 30, 
+                "legs" : 25
+            },
+            "mid" : {
+                "head" : 67,
+                "body" : 28,
+                "legs" : 23
+            },
+            "long" : {
+                "head" : 67,
+                "body" : 28,
+                "legs" : 23
             }
         },
         "price" : 1600,
@@ -385,22 +353,20 @@
     },
     "odin" : {
         "damage" : {
-            "distance" : {
-                "short" : {
-                    "head" : 95, 
-                    "body" : 38,
-                    "legs" : 32
-                },
-                "mid" : {
-                    "head" : 77,
-                    "body" : 31,
-                    "legs" : 26
-                },
-                "long" : {
-                    "head" : 77,
-                    "body" : 31,
-                    "legs" : 26
-                }
+            "short" : {
+                "head" : 95, 
+                "body" : 38,
+                "legs" : 32
+            },
+            "mid" : {
+                "head" : 77,
+                "body" : 31,
+                "legs" : 26
+            },
+            "long" : {
+                "head" : 77,
+                "body" : 31,
+                "legs" : 26
             }
         },
         "price" : 3200,
