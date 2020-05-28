@@ -1,0 +1,24 @@
+import json
+
+# ouverture du fichier en lecture seule
+fichier = open("weapons.json", "r")
+# lecture du fichier brut
+data = fichier.read()
+fichier.close()
+
+# deserialisation du json en dictionnaire
+weapons = json.loads(data)
+
+def weapons_names():
+    names = []
+    for name in weapons:
+        names.append(name)
+        names.sort()
+
+    return names
+
+def affichage(names):
+    print(names)
+
+
+affichage(weapons_names())
