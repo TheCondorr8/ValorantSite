@@ -1,21 +1,101 @@
 import json
 
 # ouverture du fichier en lecture seule
-fichier = open("weapons.json", "r")
+fichier1 = open("weapons_stats.json", "r")
 # lecture du fichier brut
-data = fichier.read()
-fichier.close()
+data1 = fichier1.read()
+fichier1.close()
+
+fichier2 = open("weapons_damages.json", "r")
+
+data2 = fichier2.read()
+fichier2.close()
 
 # deserialisation du json en dictionnaire
-weapons = json.loads(data)
+stats = json.loads(data1)
+damages = json.loads(data2)
 
 def weapons_names():
-    names = []
-    for name in weapons:
-        names.append(name)
-        names.sort()
-
+    names = list(stats.keys())
+    names.sort()
     return names
+
+def calcul():
+    tab = []
+    for key1 in damages :
+        for key2 in damages[key1] :
+            for key3 in damages[key1][key2] :
+                tab.append(damages[key1][key2][key3])
+
+    headtab = []
+    cpt = 0
+    while (cpt < len(tab) - 1):
+        headtab.append(tab[cpt])
+        cpt += 3
+
+    bodytab = []
+    cpt2 = 1
+    while (cpt2 < len(tab) - 1):
+        bodytab.append(tab[cpt2])
+        cpt2 += 3
+
+    legstab = []
+    cpt3 = 2
+    while (cpt3 < len(tab) - 1):
+        legstab.append(tab[cpt3])
+        cpt3 += 3
+
+    sommehead = 0
+    for compteur1 in headtab:
+        sommehead = sommehead + compteur1
+    moyhead = sommehead / len(headtab)
+
+    sommebody = 0
+    for compteur2 in headtab:
+        sommebody = sommebody + compteur2
+    moybody = sommebody / len(bodytab)
+
+    sommelegs = 0
+    for compteur3 in headtab:
+        sommelegs = sommelegs + compteur3
+    moylegs = sommelegs / len(legstab)
+
+    shorttab = []
+    cpt4 = 0
+    cpt5 = 1
+    cpt6 = 2
+    while (cpt4 < len(tab) - 1):
+        shorttab.append(tab[cpt4])
+        shorttab.append(tab[cpt5])
+        shorttab.append(tab[cpt6])
+        cpt4 += 9
+        cpt5 += 9
+        cpt6 += 9
+
+    midtab = []
+    cpt7 = 3
+    cpt8 = 4
+    cpt9 = 5
+    while (cpt7 < len(tab) - 1):
+        midtab.append(tab[cpt7])
+        midtab.append(tab[cpt8])
+        midtab.append(tab[cpt9])
+        cpt7 += 9
+        cpt8 += 9
+        cpt9 += 9
+
+    longtab = []
+    cpt10 = 6
+    cpt11 = 7
+    cpt12 = 8
+    while (cpt10 < len(tab) - 1):
+        longtab.append(tab[cpt10])
+        longtab.append(tab[cpt11])
+        longtab.append(tab[cpt12])
+        cpt10 += 9
+        cpt11 += 9
+        cpt12 += 9
+
 
 def affichage(names):
     print(names)
