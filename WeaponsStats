@@ -1,0 +1,87 @@
+{       
+        "classic" : {
+                "price" : 0,
+                "fire" : 6.75,
+                "wall" : "low"
+        },
+        "shorty" : {
+                "price" : 200,
+                "fire" : 3.3,
+                "wall" : "low"
+        },
+        "frenzy" : {
+                "price" : 400,
+                "fire" : 10,
+                "wall" : "low"
+        },
+        "ghost" : {
+                "price" : 500,
+                "fire" : 6.75,
+                "wall" : "medium"
+        },
+        "sheriff" : {
+                "price" : 800,
+                "fire" : 4,
+                "wall" : "high"
+        },
+        "stinger" : {
+                "price" : 1000,
+                "fire" : 18,
+                "wall" : "low"
+        },
+        "spectre" : {
+                "price" : 1600,
+                "fire" : 13.33,
+                "wall" : "medium"
+        },
+        "bucky" : {
+                "price" : 900,
+                "fire" : 1.1,
+                "wall" : "low"
+        },
+        "judge" : {
+                "price" : 1500,
+                "fire" : 3.5,
+                "wall" : "medium"
+        },
+        "bulldog" : {
+                "price" : 2100,
+                "fire" : 9.15,
+                "wall" : "medium"
+        },
+        "guardian" : {
+                "price" : 2700,
+                "fire" : 6.5,
+                "wall" : "medium"
+        },
+        "phantom" : {
+                "price" : 2900,
+                "fire" : 11,
+                "wall" : "medium"
+        },
+        "vandal" : {
+                "price" : 2900,
+                "fire" : 9.25,
+                "wall" : "medium"
+        },
+        "marshall" : {
+                "price" : 1100,
+                "fire" : 1.2,
+                "wall" : "medium"
+        },
+        "operator" : {
+                "price" : 4500,
+                "fire" : 0.75,
+                "wall" : "high"
+        },
+        "ares" : {
+                "price" : 1600,
+                "fire" : 11.5,
+                "wall" : "high"
+        },
+        "odin" : {
+                "price" : 3200,
+                "fire" : 13.8,
+                "wall" : "high"
+        }
+}
